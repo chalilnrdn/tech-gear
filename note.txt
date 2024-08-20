@@ -1,0 +1,4 @@
+Class Bootstrap :
+- align-items-center = vertikal tengah
+- align-items-start = vertikal atas
+- align-items-end = vertikal bawah
